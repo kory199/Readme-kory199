@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kory199&show_icons=true&theme=dark)
+
 <!--
 **kory199/kory199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
