@@ -18,7 +18,7 @@ jobs:
       with:
         node-version: '14'
 
-    - run: npm install -g profile-3d-contrib
+    - run: npm install -g github-profile-3d-contrib
 
     - name: Git 구성
       run: |
@@ -32,4 +32,4 @@ jobs:
         git push
 
     - name: Profile 3D Contrib 업데이트
-      run: profile-3d-contrib --username kory199 --repository kory199
+      run: github-profile-3d-contrib --username kory199 --repository kory199
