@@ -1,4 +1,4 @@
-<img src ="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:89cff0&height=100&section=header&text=%20kory199%20&fontSize=145&fontColor=ffffff&fontAlign=30&fontAlignY=65&desc=GitHub&descAlign=90&descAlignY=75&descSize=30&textBg=false&animation=fadeIn">
+<img src ="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:89cff0&height=100&section=header&text=%40kory199%40&fontSize=145&fontColor=ffffff&fontAlign=40&fontAlignY=80&desc=GitHub&descAlign=90&descAlignY=75&descSize=40&textBg=false&animation=fadeIn">
 
 ### SKILLS
 <div align="left">
