@@ -1,19 +1,15 @@
-### Hi there 👋
+<img src ="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:89cff0&height=100&section=header&text=%20kory199%20&fontSize=145&fontColor=ffffff&fontAlign=30&fontAlignY=65&desc=GitHub&descAlign=90&descAlignY=75&descSize=30&textBg=false&animation=fadeIn">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DA0008&title_bg=%23555555&icon=keybase.svg&icon_color=%23FFFFFF&title=Watches&edge_flat=true"/></a>
 
+### SKILLS
+<div align="left">
+	<img src="https://img.shields.io/badge/C%23-865983?style=for-the-badge&logo=Csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNITY-126953?style=for-the-badge&logo=UNITY&logoColor=white" />
 
-<!--
-**kory199/kory199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kory199&show_icons=true&theme=dark)
+ ![](./profile-3d-contrib/profile-blue-animate.svg)
+ 
+</div>
+<div aling="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kory199&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Kympy&show_icons=true">
+</div>
