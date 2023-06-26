@@ -10,5 +10,5 @@
 </div>
 <div aling="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kory199&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Kympy&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=kory199&show_icons=true">
 </div>
